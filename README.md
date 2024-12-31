@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/24c224fc-753c-4521-bd9c-332d93fb9141)# EventViwerHunter
+# EventViwerHunter
 # PhoenixHunter
 
 ## Overview
