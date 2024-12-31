@@ -1,4 +1,4 @@
-# EventViwerHunter
+![image](https://github.com/user-attachments/assets/24c224fc-753c-4521-bd9c-332d93fb9141)# EventViwerHunter
 # PhoenixHunter
 
 ## Overview
@@ -28,11 +28,19 @@
 ## Output
 Sample:
 ```plaintext
-![image](https://github.com/user-attachments/assets/26ae5d5b-88e6-4cab-8d0f-68e935880026)
-
-![image](https://github.com/user-attachments/assets/29ea939f-d551-415a-9d63-669edbc474a4)
-
-
-
+```plaintext
+=== Authentication Events ===
+Date:     12/31/2024 10:15:00 AM
+Log:      Security
+EventID:  4625
+Message:  An account failed to log on.
+```
 ## Contributions
 Submit issues or pull requests on GitHub.
+
+![image](https://github.com/user-attachments/assets/a48368b6-1457-4214-ba11-b565e8511864)
+
+
+![image](https://github.com/user-attachments/assets/467b0071-303e-4513-b330-fa219c43f3a3)
+
+
